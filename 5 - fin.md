@@ -10,6 +10,6 @@ Voici quelques pistes d'améliorations :
 
   - Ajouter des dangers qui bougent, comme des ennemis ou des projectiles.
   - Décorer le jeu en rajoutant des objets supplémentaires.
-  - Ajouter un 2e niveau.
+  - Ajouter un 2ème niveau.
 
 Le secret d'un bon jeu, c'est d'avoir de bonnes idées et d'expérimenter encore et toujours, jusqu'à obtenir le résultat qu'on souhaite.

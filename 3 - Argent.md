@@ -1,6 +1,6 @@
 # L'argent, le nerf de la guerre ! 
 
-Dans Blop, il faut ramasser toutes les pièces du niveau pour gagner la partie.
+Dans Gold Seeker, il faut ramasser toutes les pièces du niveau pour gagner la partie.
 
 Si ce n'est pas déjà fait, il faut ajouter des pièces dans le jeu.
 

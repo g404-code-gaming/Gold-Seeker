@@ -1,6 +1,6 @@
-# Blop
+# Gold Seeker
 
-Blop est un petit jeu d'exploration et de collecte où le joueur incarne un personnage qui se déplace sans s'arrêter et tente de collecter des amas de pièces ou d'autres objets précieux.  
+Gold Seeker est un petit jeu d'exploration et de collecte où le joueur incarne un personnage qui se déplace sans s'arrêter et tente de collecter des amas de pièces ou d'autres objets précieux.  
 Parviendrez-vous à éviter les pièges du labyrinthe et à récolter tous les trésors ?
 
 ![Texte alternatif](https://github.com/g404-code-gaming/Blop/blob/main/Image/Jeu_image_globale.JPG)

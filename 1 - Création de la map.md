@@ -19,7 +19,7 @@ Voici la liste des objets qu'il nous faut pour le jeu :
 - 🗝️ Une clé : Une clé que le joueur peut ramasser pour ouvrir des portes.
 - 🔥 De la lave : Un carré de lave dangereux ! Si le joueur la touche avec son personnage, il perd la partie et doit recommencer.
 
-> Pour trouver des objets de forme carré, vous pouvez écrire 'Square' dans la barre de recherche : vous allez trouver plein d'objet utiles !
+> Pour trouver des objets de forme carré, vous pouvez écrire 'Square' dans la barre de recherche : vous allez trouver plein d'objets utiles !
   
 ## Construction de la carte
 

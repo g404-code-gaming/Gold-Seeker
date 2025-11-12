@@ -29,7 +29,7 @@ Lancez l’aperçu pour voir ce que ça donne.
 
 ### Séparer le personnage des murs
 
-Les personnages traversent les murs ? Pas de panique : il faut ajouter des événements pour empêcher le personnage de traverser les murs.  
+Le personnage traverse le mur ? Pas de panique : il faut ajouter des événements pour empêcher le personnage de traverser les murs.  
 Puisque nous voulons que notre personnage ne puisse **jamais** traverser les murs, il n'y a pas besoin de condition.
 
 ![variable](https://github.com/g404-code-gaming/Blop/blob/main/Image/deplacement_evenement_3.JPG)

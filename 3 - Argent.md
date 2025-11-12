@@ -16,7 +16,7 @@ Dans les événements, on va initialiser cette variable : au lancement de la zon
 
 ![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_3.JPG)
 
-Lorsque le nombre de pièces sur la scène est égal à 0, cela signifie que le joueur a remporté la partie. Pour l'instant, cela fait simplement recommencer le jeu, mais on verra plus tard comment changer de niveaux.
+Lorsque le nombre de pièces sur la scène est égal à 0, cela signifie que le joueur a remporté la partie. Pour l'instant, cela fait simplement recommencer le jeu, mais on verra plus tard comment changer de niveau.
 
 ![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_4.JPG)
 

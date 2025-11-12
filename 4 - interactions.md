@@ -54,6 +54,6 @@ L'événement qui permet au joueur de déplacer le bloc fonctionne de la manièr
 
 Utilisez le bloc pour condamner un passage, forçant le joueur à le pousser pour trouver son chemin.
 
-Voilà ! Vous avez ajouté de la lave pour tuer le personnage, ainsi que des portes et des blocs poussables pour augmenter le défi. Blop commence à devenir un vrai jeu !
+Voilà ! Vous avez ajouté de la lave pour éliminer le personnage, ainsi que des portes et des blocs poussables pour augmenter le défi. Gold Seeker commence à devenir un vrai jeu !
 
 [étape 5 - Finalisation](https://github.com/g404-code-gaming/Blop/blob/main/5%20-%20fin.md)

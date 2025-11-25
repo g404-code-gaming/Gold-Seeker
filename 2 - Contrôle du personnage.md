@@ -43,6 +43,8 @@ Ensuite, ajoutez-le à vos murs, en mettant cette fois-ci les paramètres suivan
 
 ![variable](/Image/deplacement_mur_2.JPG)
 
+Ajoutez le comportement ci-dessus à tout les objets de votre jeu que le personnage ne peut pas traverser. 
+
 Avec tout ça, nous avons un personnage qui peut se déplacer et qui ne traverse pas les murs.  
 Le labyrinthe prend vie petit à petit.
 

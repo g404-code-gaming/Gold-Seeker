@@ -8,8 +8,6 @@ Passons maintenant aux contrôles du personnage.
 
 Pour commencer, ajoutez une [variable](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Variables.md) **Direction** à votre personnage. Cette variable servira à savoir dans quelle direction il doit aller. 
 
-Nous allons également créer une variable **Movable**, qui permet de savoir si notre personnage peut bouger ou non.
-
 ![variable](https://github.com/g404-code-gaming/Blop/blob/main/Image/deplacement_evenement_0.JPG)
 
 Ensuite, allez dans la fenêtre des [événements](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/%C3%A9v%C3%A8nements.md).  

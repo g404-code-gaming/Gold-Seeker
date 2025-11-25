@@ -27,12 +27,21 @@ Une fois que c'est fait, ajoutez les événements qui déplacent le personnage e
 Et maintenant, le personnage peut se déplacer grâce aux touches que nous avons choisies !  
 Lancez l’aperçu pour voir ce que ça donne.
 
-### Séparer le personnage des murs
+### Personnage et Collisions
 
-Le personnage traverse le mur ? Pas de panique : il faut ajouter des événements pour empêcher le personnage de traverser les murs.  
-Puisque nous voulons que notre personnage ne puisse **jamais** traverser les murs, il n'y a pas besoin de condition.
+Le personnage traverse le mur ? Pas de panique : nous allons gérer ce problème. 
 
-![variable](https://github.com/g404-code-gaming/Blop/blob/main/Image/deplacement_evenement_3.JPG)
+Il existe un comportement **Physic2D** qui permet aux personnages de bloquer contre les murs et autres obstacles. 
+
+![variable](/Image/deplacement_mur_0.JPG)
+
+Ajoutez ce comportement à votre personnage, en mettant les paramètres suivants : 
+
+![variable](/Image/deplacement_mur_1.JPG)
+
+Ensuite, ajoutez-le à vos murs, en mettant cette fois-ci les paramètres suivantes : 
+
+![variable](/Image/deplacement_mur_2.JPG)
 
 Avec tout ça, nous avons un personnage qui peut se déplacer et qui ne traverse pas les murs.  
 Le labyrinthe prend vie petit à petit.

@@ -46,11 +46,9 @@ Ajoutons un **bloc**, un obstacle que le personnage peut pousser.
 
 ![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_7.JPG)
 
-Ajoutez l'objet à la scène. N'oubliez pas que c'est un objet que le personnage ne peut pas franchir : il doit faire partie du groupe **Bloc**.
+Ajoutez l'objet à la scène.
 
-L'événement qui permet au joueur de déplacer le bloc fonctionne de la manière suivante : lorsque le personnage entre en contact avec le bloc, on déplace ce dernier en fonction de la [variable](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Variables.md) **Direction** du personnage.
-
-![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_8.JPG)
+Pour que le personnage ne puisse pas traverser l'objet, mais puisse quand même le déplacer, il faut lui ajouter le comportement **Physic2D**, et mettre les mêmes paramètres que ceux du Player (voir fin du chapitre 2).
 
 Utilisez le bloc pour condamner un passage, forçant le joueur à le pousser pour trouver son chemin.
 

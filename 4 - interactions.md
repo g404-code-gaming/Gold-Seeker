@@ -24,6 +24,10 @@ Nous allons ajouter une **porte**. Elle bloque le passage du personnage et ne pe
 
 Dans un premier temps, il faut ajouter la porte et la clé à la scène. La porte est un objet qu'il faut placer dans le groupe **Bloc**.
 
+Nous allons empécher le joueur de toucher la porte en ajoutant l'évènement suivant : 
+
+![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_bis_porte.JPG)
+
 Commençons par créer une variable de scène **Key** qui compte le nombre de clés que possède le joueur :
 
 ![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_4.JPG)
